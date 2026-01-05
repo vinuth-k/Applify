@@ -1,2 +1,2 @@
 # Applify
-Application for daliy needs 
+Application for daily needs 
